@@ -1,0 +1,71 @@
+.
+├── cases
+│   ├── book_case01_字符串.py
+│   ├── book_case02_列表.py
+│   ├── video_case01_星期判断.py
+│   ├── video_case02_九九乘法表.py
+│   ├── video_case03_名片管理.py
+│   ├── video_case04_名片管理plus.py
+│   ├── video_case05_烤地瓜.py
+│   ├── video_case06_存放家具.py
+│   └── video_case07_4s店.py
+├── python-01_基础
+│   ├── 01-first.py
+│   ├── 02-注释.py
+│   ├── 03-变量.py
+│   ├── 04-input.py
+│   ├── 05-print.py
+│   ├── 06-if判断和类型转换.py
+│   ├── 07-关键字.py
+│   ├── 08-and_or_not.py
+│   ├── 09-while.py
+│   ├── 10-for.py
+│   ├── 11-break_contiune.py
+│   ├── 12-字符串.py
+│   ├── 13-列表.py
+│   ├── 14-字典.py
+│   ├── 15-for_else.py
+│   ├── 16-遍历列表的方式.py
+│   ├── 17-列表的append-extend.py
+│   ├── 18-元组.py
+│   └── Zen.py
+├── python-02_函数
+│   ├── 01-函数.py
+│   ├── 02-缺省函数.py
+│   ├── 03-不定长参数.py
+│   ├── 04-引用.py
+│   ├── 05-匿名函数.py
+│   ├── 06-两个变量交换.py
+│   └── 07-一些注意点_引用.py
+├── python-03_文件
+│   ├── 01-文件写.py
+│   ├── 02-文件读.py
+│   ├── 03-文件复制.py
+│   ├── 06-文件常见操作.py
+│   ├── test1_backup.txt
+│   ├── test1.txt
+│   ├── test_backup.txt
+│   └── test.txt
+├── python-04_面向对象、异常、模块
+│   ├── 01-定义类.py
+│   ├── 02-创建对象.py
+│   ├── 03-给对象添加属性.py
+│   ├── 05-self.py
+│   ├── 06-__init__.py
+│   ├── 07-__str__.py
+│   ├── 08-隐藏属性_私有方法.py
+│   ├── 09-__del__.py
+│   ├── 10-继承.py
+│   ├── 11-重写.py
+│   ├── 12-继承注意点.py
+│   ├── 13-多继承.py
+│   ├── 14-多继承注意点.py
+│   ├── 15-类_实例_静态.py
+│   ├── 16-__new__.py
+│   ├── 17-单例.py
+│   ├── 18-只初始化一次.py
+│   ├── 19-异常处理.py
+│   └── 20-抛出在自定义异常.py
+└── 目录.txt
+
+5 directories, 63 files
