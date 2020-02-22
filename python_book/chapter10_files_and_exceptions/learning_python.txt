@@ -1,0 +1,6 @@
+In Python you can Automate the Boring Stuff
+In Python you can Stay on Top of Bitcoin Prices
+In Python you can Create a Calculator
+In Python you can Mine Twitter Data
+In Python you can Build a Microblog With Flask
+Form https://realpython.com/what-can-i-do-with-python/
