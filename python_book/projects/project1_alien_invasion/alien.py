@@ -22,7 +22,7 @@ class Alien(Sprite):
 
         # store the alien's gap
         self.aliens_gap = self.rect.width/2
-        self.alien_border_gap = self.rect.width/2
+        self.alien_border_gap = self.rect.width
 
     def blitme(self):
         self.screen.blit(self.image, self.rect)
