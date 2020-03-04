@@ -34,11 +34,13 @@ elif "-" in s:
         ln = float(eval(temp[1].strip()))
         result = fn-ln
     else:
+        fn = float(eval(temp[1].strip()))
+        ln = float(eval(temp[2].strip()))
         result = -fn-ln
 print("{:.2f}".format(result))
 '''
 
 #参考答案
-s = input()
-print("{:.2f}".format(eval(s)))
+# s = input()
+# print("{:.2f}".format(eval(s)))
 
