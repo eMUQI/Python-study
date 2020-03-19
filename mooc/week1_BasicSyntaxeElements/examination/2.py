@@ -40,7 +40,7 @@ elif "-" in s:
 print("{:.2f}".format(result))
 '''
 
-#参考答案
-# s = input()
-# print("{:.2f}".format(eval(s)))
+参考答案
+s = input()
+print("{:.2f}".format(eval(s)))
 

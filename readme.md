@@ -8,9 +8,9 @@
 
 ### crawler
 
-学习**[莫烦PYTHON-Python3爬虫基础](https://morvanzhou.github.io/tutorials/data-manipulation/scraping/)**课程中的练习代码
+学习 **[莫烦PYTHON-Python3爬虫基础](https://morvanzhou.github.io/tutorials/data-manipulation/scraping/)** 课程中的练习代码
 
-![莫凡Python](readme.assets/scraping.jpg)
+[![莫凡Python](readme.assets/scraping.jpg)](https://morvanzhou.github.io/tutorials/data-manipulation/scraping/)
 
 ### csp
 
@@ -36,7 +36,7 @@
 
 记录平常课后习题和测验的代码:
 
-- `examinations` 目录下为测验题代码
+- `examination` 目录下为测验题代码
 
 - `exercises` 目录下为练习题代码
 
@@ -46,8 +46,8 @@
 
 ### python_book
 
-![Python从入门到](readme.assets/1861.308.big.jpg)
+![Python从入门到](readme.assets/PythonCrashCourse.jpg)
 
-记录学习**《Python编程：从入门到实践》**过程中的相关代码。
+记录学习 **《Python编程：从入门到实践》** 过程中的相关代码。
 
-**强烈推荐这本书！** 图书链接： [中文版](https://www.ituring.com.cn/book/1861)|[英文版](https://www.amazon.cn/dp/B07J4521M3)
+ **强烈推荐这本书！** 图书链接： [中文版](https://www.ituring.com.cn/book/1861)|[英文版](https://www.amazon.cn/dp/B07J4521M3)
