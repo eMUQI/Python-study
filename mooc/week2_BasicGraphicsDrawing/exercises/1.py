@@ -1,4 +1,5 @@
-# PythonDraw.py
+'''使用turtle库，绘制一个蟒蛇形状的图形。'''
+
 import turtle
 
 # initialize pen settings
@@ -22,6 +23,6 @@ turtle.circle(16, 180)
 turtle.fd(40 * 2/3)
 
 # draw the snake's eye
-turtle.dot(8,"white")
+turtle.dot(8, "white")
 
 turtle.done()
