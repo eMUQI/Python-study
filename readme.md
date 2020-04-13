@@ -46,7 +46,7 @@
 
 ### python_book
 
-![Python从入门到](readme.assets/PythonCrashCourse.jpg)
+![Python从入门到实践](readme.assets/PythonCrashCourse.jpg)
 
 记录学习 **《Python编程：从入门到实践》** 过程中的相关代码。
 
